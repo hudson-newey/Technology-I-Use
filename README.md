@@ -2,6 +2,8 @@
 
 _This repo was inspired by @antfu's "use" repo [https://github.com/antfu/use](https://github.com/antfu/use)_
 
+A non-exhaustive list of the technology I use regularly
+
 ## Tools
 
 ### Editor
@@ -10,6 +12,7 @@ _This repo was inspired by @antfu's "use" repo [https://github.com/antfu/use](ht
 - [Overleaf](https://overleaf.com/)
 - [Jupyter Lab](https://jupyter.org/)
 - [Obsidian](https://obsidian.md/)
+- [RStudio](https://posit.co/download/rstudio-desktop/) (cloud & desktop)
 
 ### CLI
 
