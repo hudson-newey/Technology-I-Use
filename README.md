@@ -41,24 +41,24 @@ _This repo was inspired by @antfu's "use" repo [https://github.com/antfu/use](ht
 
 ## Languages and related
 
-- C
-- C++
-- C#
-- VB.net
-- VBS
+- [C](https://www.iso.org/standard/74528.html)
+- [C++](https://isocpp.org/) (kind of)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [VB.net](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+- [VBScript](https://docs.microsoft.com/en-us/previous-versions/t0aew7h6(v=vs.85))
 - zsh
-- Rust
-- Go
-- JavaScript / TypeScript
-- SCSS / CSS
-- LaTeX
-- Markdown
-- R
-- HTML
+- [Rust](https://www.rust-lang.org/)
+- [Go](https://go.dev/)
+- [TypeScript](https://www.typescriptlang.org/) / [JavaScript](https://www.ecma-international.org/technical-committees/tc39/) (+ other ECMAScript variants)
+- [SCSS](https://sass-lang.com/) / [CSS](https://drafts.csswg.org/)
+- [LaTeX](https://www.latex-project.org/)
+- [Markdown](https://www.markdownguide.org/)
+- [R](https://www.r-project.org/)
+- [HTML](https://html.spec.whatwg.org/multipage/)
 - Java
-- Python
-- Ruby
-- F#
+- [Python](https://www.python.org/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [F#](https://fsharp.org/)
 
 ## Frameworks & etc
 
