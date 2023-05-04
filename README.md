@@ -25,7 +25,7 @@ _This repo was inspired by @antfu's "use" repo [https://github.com/antfu/use](ht
 ### CLI Tools
 
 - Terminal editor [vim](https://www.vim.org/)
-- VC: [Git](https://git-scm.com/)
+- Version control: [Git](https://git-scm.com/)
 
 ### Web
 
@@ -33,9 +33,10 @@ _This repo was inspired by @antfu's "use" repo [https://github.com/antfu/use](ht
 - [Brave Search](http://search.brave.com/)
 - [Quad9 DNS](https://www.quad9.net/)
 
-### Operating System
+### Operating System & Desktop Environment
 
 - [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
+- [Gnome](https://www.gnome.org/)
 
 ---
 
