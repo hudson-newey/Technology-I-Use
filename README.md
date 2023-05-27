@@ -73,7 +73,7 @@ A non-exhaustive list of the technology I use regularly
 - [MongoDB](https://www.mongodb.com/)
 - [Postgres](https://www.postgresql.org/)
 - [MySQL](https://www.mysql.com/)
-- [BootStrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Tailwind](https://tailwindcss.com/)
 - [tidyverse](https://tidyverse.org)
 - [JQuery](https://jquery.com/)
