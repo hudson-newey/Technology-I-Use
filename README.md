@@ -35,6 +35,7 @@ A non-exhaustive list of the technology I use regularly
 - [Brave Browser](https://brave.com/)
 - [Brave Search](http://search.brave.com/)
 - [Quad9 DNS](https://www.quad9.net/)
+- [Perplexity AI](http://perplexity.ai/)
 
 ### Operating System & Desktop Environment
 
