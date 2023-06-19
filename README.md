@@ -41,6 +41,7 @@ A non-exhaustive list of the technology I use regularly
 
 - [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
 - [Gnome](https://www.gnome.org/)
+- [Debian](https://www.debian.org/) (for servers)
 
 ---
 
@@ -64,6 +65,7 @@ A non-exhaustive list of the technology I use regularly
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [F#](https://fsharp.org/)
+- [OpenQASM](https://openqasm.com/)
 
 ## Frameworks & etc
 
@@ -75,6 +77,5 @@ A non-exhaustive list of the technology I use regularly
 - [Postgres](https://www.postgresql.org/)
 - [MySQL](https://www.mysql.com/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Tailwind](https://tailwindcss.com/)
 - [tidyverse](https://tidyverse.org)
 - [JQuery](https://jquery.com/)
