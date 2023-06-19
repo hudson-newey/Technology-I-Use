@@ -27,7 +27,8 @@ A non-exhaustive list of the technology I use regularly
 
 ### CLI Tools
 
-- Terminal editor [vim](https://www.vim.org/)
+- Terminal editor: [vim](https://www.vim.org/)
+- Terminal editor (learning): [emacs](https://www.gnu.org/software/emacs/)
 - Version control: [Git](https://git-scm.com/)
 
 ### Web
