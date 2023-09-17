@@ -44,7 +44,7 @@ A non-exhaustive list of the technology I use regularly
 ### Operating System & Desktop Environment
 
 - [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
-- [Gnome](https://www.gnome.org/)
+- [KDE Plasma](https://kde.org/plasma-desktop/)
 - [Debian](https://www.debian.org/) (for servers)
 
 ---
@@ -83,3 +83,5 @@ A non-exhaustive list of the technology I use regularly
 - [Bootstrap](https://getbootstrap.com/)
 - [tidyverse](https://tidyverse.org)
 - [JQuery](https://jquery.com/)
+- [NextJS](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/)
